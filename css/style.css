@@ -1,0 +1,26 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map
+{
+    margin:auto;
+    margin-top:50px;
+    height: 600px;
+    width:800px;
+    border : 2px solid teal;
+}
+
+h1
+{
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+img{
+    margin-left:47.5%;
+    height: 75px;
+    width: 75px;
+}
